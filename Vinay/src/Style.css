@@ -1,0 +1,52 @@
+*{
+    background-color: burlywood;
+}
+#m1{
+height: 270px;
+width: 500px;
+border-radius: 20px;
+
+margin: 200px;
+margin-left: 425px;
+background-color: lightblue;
+text-align: center;
+
+}
+#f1{
+    
+    margin: 10px;
+    background-color: green;
+    color: black;
+}
+#f2{
+    margin: 10px;
+    background-color:red;
+    color: black;
+}
+#f3{
+    margin: 10px;
+    background-color: yellow;
+    color: black;
+}
+#f1:hover{
+    
+background-color: darkblue;
+}
+#f2:hover{
+    background-color: green;
+    }
+    #f3:hover{
+        background-color: red;
+        }
+        
+        button{
+              border-radius: 10px;
+
+
+        }
+        h1{
+            text-size-adjust: xll;
+            border: 10px;
+            border-color: cornflowerblue;
+
+        }
